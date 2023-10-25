@@ -1,6 +1,6 @@
 .. class:: center
 
-    :Title: Tonal analysis of economiс news
+    :Title: Tonal analysis of economic news
     :Type: Bachelor's Thesis
     :Author: Ksenofontov Gregory
     :Supervisor: Candidate of Physico-Mathematical Sciences, Lyasheva Stella
