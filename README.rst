@@ -1,4 +1,5 @@
 .. class:: center
+
     :Title: Tonal analysis of economiс news
     :Type: Bachelor's Thesis
     :Author: Ksenofontov Gregory
